@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="10dp"
+    android:background="@color/colorPrimary"
+    tools:context="com.pivotalsoft.pivotallearning.EnrollActivity">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:padding="10dp">
+
+
+            <EditText
+                android:id="@+id/etFullName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:hint="Full Name"
+                android:textColor="@android:color/white"
+                android:textColorHint="#9dffffff"
+                android:layout_marginTop="10dp"/>
+
+            <EditText
+                android:id="@+id/etEmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="textEmailAddress"
+                android:hint="Email ID"
+                android:textColor="@android:color/white"
+                android:textColorHint="#9dffffff"
+                android:layout_marginTop="10dp"/>
+
+            <EditText
+                android:id="@+id/etMobile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="phone"
+                android:hint="Mobile no"
+                android:textColor="@android:color/white"
+                android:textColorHint="#9dffffff"
+                android:layout_marginTop="10dp"/>
+
+            <EditText
+                android:id="@+id/etCourse"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:hint="Course Name"
+                android:textColor="@android:color/white"
+                android:textColorHint="#9dffffff"
+                android:layout_marginTop="10dp"/>
+
+            <CheckBox
+                android:id="@+id/checkBox"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Email me deals and recommendations"
+                android:textColor="@android:color/white"
+                android:layout_marginTop="16dp"
+                android:checked="true"
+                android:buttonTint="@android:color/white"/>
+
+            <Button
+                android:id="@+id/btnEnroll"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Confirm to Enroll"
+                android:background="@color/colorPrimaryDark"
+                android:textColor="@android:color/white"
+                android:layout_marginTop="20dp"/>
+
+
+        </LinearLayout>
+
+
+</LinearLayout>

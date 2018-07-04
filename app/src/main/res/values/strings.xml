@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">PivotalSoft</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+
+    <string name="facebook_app_id">348308628953671</string>
+    <string name="youtube_android_key">AIzaSyDNJHmB0qYyyZZIttH4wr92yiYTv6fiRHE</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="welcome_to_pivotalsoft_training">Welcome to Pivotalsoft Training</string>
+    <string name="sign_in">Sign in</string>
+    <string name="register">Register</string>
+    <string name="sign_in_and_start_learning">Sign In and Start Learning</string>
+    <string name="you_agreeto_our_terms_and_conditions">You agree to our terms and conditions</string>
+    <string name="by_signing_into_the_app">By signing into the app,</string>
+    <string name="sign_in_as_pivotalsot_student">Sign in as Pivotalsoft Student</string>
+    <string name="signinwith_gmail">Login with Gmail</string>
+    <string name="sign_in_with_facebook">Sign in with Facebook</string>
+
+
+    <string name="action_logout">Logout</string>
+    <string name="msg_enter_mobile">Enter your mobile number to get started!</string>
+    <string name="lbl_name">Name</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_mobile">Mobile</string>
+    <string name="lbl_next">NEXT</string>
+    <string name="msg_sit_back">Sit back &amp; Relax! while we verify your mobile number</string>
+    <string name="msg_manual_otp">(Enter the OTP below in case if we fail to detect the SMS automatically)</string>
+    <string name="lbl_enter_otp">Enter OTP</string>
+    <string name="lbl_submit">SUBMIT</string>
+    <string name="live_online_learning_program_bringing_aakash_classroom_to_your_home">Live Online Learning Program Bringing Pivotal Classroom to your Home</string>
+    <string name="live_classes_by_pivotalsoft_faculty">Live Classes by Pivotalsoft Faculty</string>
+    <string name="live_doubt_clarification_sessions">Live Doubt Clarification Sessions</string>
+    <string name="recording_of_all_lectures">Recording of all Lectures</string>
+    <string name="study_at_comfort_of_home">Study at Comfort of Home</string>
+    <string name="practice_test_quizzes_aiats">Practice Test / Quizzes / AIATS</string>
+    <string name="printed_study_material">Printed Study Material</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="we_need_few_details_to_personlize_your_experience">We need few details to personlize your experience</string>
+    <string name="terms_conditions">Terms $ Conditions</string>
+    <string name="apply_certificate">Apply Certificate</string>
+
+
+    <string name="user_exists">User already logged in</string>
+    <string name="sign_in_facebook">Sign in with Facebook</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="logout_text">Sign out</string>
+    <string name="logo">logo</string>
+    <string name="new_user_click_here_to_register">New User ! Click here to Register</string>
+    <string name="invite_friends_and_earn_points">Invite friends and earn points</string>
+    <string name="share_your_referral_code">Share Your Referral Code</string>
+    <string name="invite_your_friend">INVITE YOUR FRIEND</string>
+    <string name="your_registration_has_successful_you_ve_got_a_2000_rupees_in_your_wallet">Your Registration has been successful. You\'ve got a bonus of 2000 Rupees in Your Wallet! Please login and check your wallet.</string>
+    <string name="terms_amp_conditions"><![CDATA[Terms & Conditions]]></string>
+
+    <dimen name="item_offset">10dp</dimen>
+    <dimen name="detail_backdrop_height">250dp</dimen>
+    <dimen name="backdrop_title">30dp</dimen>
+    <dimen name="backdrop_subtitle">18dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_album_radius">0dp</dimen>
+    <dimen name="album_cover_height">160dp</dimen>
+    <dimen name="album_title_padding">10dp</dimen>
+    <dimen name="album_title">15dp</dimen>
+    <dimen name="songs_count_padding_bottom">5dp</dimen>
+    <dimen name="songs_count">12dp</dimen>
+    <dimen name="ic_album_overflow_width">20dp</dimen>
+    <dimen name="ic_album_overflow_height">30dp</dimen>
+    <dimen name="ic_album_overflow_margin_top">10dp</dimen>
+</resources>

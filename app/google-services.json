@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "33790926423",
+    "project_id": "pivotallearning-180710"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33790926423:android:265ec4e58f5ee196",
+        "android_client_info": {
+          "package_name": "com.pivotalsoft.pivotalsoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33790926423-6rcobbl6uq8ju2ug42lifsuqsgpgko0t.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "33790926423-q4kg57493hpo66creucl67gugb3imj4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pivotalsoft.pivotalsoft",
+            "certificate_hash": "27a057982761e3b8df6f55dab13e07ac3e39df51"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNJHmB0qYyyZZIttH4wr92yiYTv6fiRHE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
